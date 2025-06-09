@@ -1,0 +1,4 @@
+streamlit
+numpy
+web3
+ipfshttpclient
